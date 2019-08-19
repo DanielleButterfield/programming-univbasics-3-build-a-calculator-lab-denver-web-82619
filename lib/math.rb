@@ -15,7 +15,11 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
- num
+  count = 0
+  while < (num1-num2) do
+    count += num2
+  end
+  modul = num1-count
 end
 
 def square_root(num)
