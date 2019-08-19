@@ -16,7 +16,7 @@ end
 
 def modulo(num1, num2)
   count = 0
-  while < num1 do
+  while <= num1 do
     count += num2
   end
   count -= num2
