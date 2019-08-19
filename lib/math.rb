@@ -16,10 +16,9 @@ end
 
 def modulo(num1, num2)
   count = 0
-  while <= num1 do
+  while count < (num1-num2) do
     count += num2
   end
-  count -= num2
   modul = num1-count
 end
 
