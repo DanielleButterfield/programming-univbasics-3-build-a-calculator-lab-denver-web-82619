@@ -19,7 +19,7 @@ def modulo(num1, num2)
   while count < (num1-num2) do
     count += num2
   end
-  modul = num1-count
+  num1-count
 end
 
 def square_root(num)
